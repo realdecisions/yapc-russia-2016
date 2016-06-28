@@ -1,0 +1,10 @@
+requires 'Devel::Cycle',     '>= 0';
+requires 'Devel::SizeMe',    '>= 0';# 5.22 - compilation error
+requires 'Devel::Size',      '>= 0';
+requires 'Devel::Gladiator', '>= 0';
+requires 'Devel::MAT',       '>= 0';
+requires 'Test::LeakTrace',  '>= 0';
+requires 'Devel::FindRef',   '>= 0';
+requires 'PadWalker',        '>= 0';
+requires 'Mojolicious',      '>= 0';
+requires 'App::Devel::MAT::Explorer::GTK', '>= 0';
